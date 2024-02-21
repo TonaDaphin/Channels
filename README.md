@@ -1,4 +1,4 @@
-# blq_test
+# Channels
 
 A new Flutter project.
 
